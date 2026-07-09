@@ -8,7 +8,7 @@
     <h1>🚀 Bienvenue sur mon site !</h1>
     <p>Hébergé gratuitement par GitHub Pages.</p>
     
-    <!-- LIEN VERS VOTRE PDF -->
+    <!--Otvety_Poliklinicheskaya_Praktika_5_Kurs.pdf -->
     <p>
         <a href="Ответы. Поликлиническая практика 5 курс.pdf" target="_blank">
             📄 Voir les réponses de la pratique (PDF)
